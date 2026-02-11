@@ -133,4 +133,4 @@ pytest -q
 
 ## License
 
-MIT (recommended for broad adoption and low-friction usage).
+MIT
